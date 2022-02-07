@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".translate.TranslateAcitivity">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="190dp"
+        android:layout_gravity="left"
+        android:orientation="vertical"
+        android:layout_marginBottom="100dp"
+        android:layout_marginTop="-155dp"
+        android:backgroundTint="@color/biru"
+        android:background="@drawable/background_translate">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/translate"
+            android:backgroundTint="@color/white"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="35sp"
+            android:fontFamily="@font/ubuntu_medium"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="12dp"
+            android:text="Translator"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:fontFamily="@font/ubuntu_medium"
+            android:layout_marginStart="10dp"
+            android:text="With great languages will come's great responsibility"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="@font/ubuntu_medium"
+        android:text="Tulis kata atau kalimat disini" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_translate"
+        android:textColor="@color/black"
+        android:textColorHint="#9F9F9F"
+        android:paddingLeft="5dp"
+        android:hint="Enter Text"
+        android:id="@+id/inputTxt"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Translate ID ke EN"
+            android:layout_margin="10dp"
+            android:textSize="10sp"
+            android:backgroundTint="#007ADB"
+            android:background="@drawable/bg_searche"
+            android:id="@+id/btnTranslate"/>
+        <Button
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Translate EN ke ID"
+            android:layout_margin="10dp"
+            android:textSize="10sp"
+            android:backgroundTint="#007ADB"
+            android:background="@drawable/bg_searche"
+            android:id="@+id/btnTranslate1"/>
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hasil Terjemahan"
+        android:layout_gravity="left"
+        android:fontFamily="@font/ubuntu_medium"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:hint="Enter Text"
+        android:background="@drawable/bg_translate"
+        android:textColor="@color/black"
+        android:textColorHint="#9F9F9F"
+        android:id="@+id/translateTxt"/>
+
+</LinearLayout>

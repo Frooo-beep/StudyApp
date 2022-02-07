@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/drawable/background_translate.xml" value="0.1055" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/drawable/bg_dialog.xml" value="0.1055" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_add_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_coutdowntimer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_detail_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_note.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/activity_translate_acitivity.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/custom_dialog_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/daftar_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/layout_add_url.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/layout_color.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/layout_delete_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/New folder/StudyApp-master/app/src/main/res/layout/todo_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/background.xml" value="0.1765" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/bg_color.xml" value="0.1055" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/bg_sub.xml" value="0.1055" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/ic_callendar.xml" value="0.1055" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/ic_tambah.xml" value="0.1055" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/ic_tanggal.xml" value="0.118" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/drawable/ic_waktu.xml" value="0.118" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/activity_add_todo.xml" value="0.17282051282051283" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/activity_detail_todo.xml" value="0.17282051282051283" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/activity_note.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/activity_todo.xml" value="0.17282051282051283" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/custom_dialog_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/daftar_todo.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/layout_color.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LENOVO/Music/StudyApp-master/app/src/main/res/layout/todo_item.xml" value="0.17282051282051283" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/drawable/background.xml" value="0.1305" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/drawable/background1.xml" value="0.1305" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/drawable/background_translate.xml" value="0.1305" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/drawable/bg_searche.xml" value="0.1305" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/drawable/bg_translate.xml" value="0.1" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/layout/activity_add_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/layout/activity_coutdowntimer.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/layout/activity_note.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/layout/activity_translate_acitivity.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/Dinacomp/StudyApp-master/app/src/main/res/layout/daftar_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/background.xml" value="0.2065" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/background1.xml" value="0.1" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/background2.xml" value="0.134" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_add.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_checklist.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_color.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_item_color_1.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_item_color_2.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_item_color_3.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_item_color_4.xml" value="0.1375" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_searche.xml" value="0.1" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/bg_sub.xml" value="0.134" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/btn_background.xml" value="0.134" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/drawable/btn_border.xml" value="0.134" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/activity_add_todo.xml" value="0.33" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/activity_coutdowntimer.xml" value="0.22" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/activity_detail_todo.xml" value="0.2" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/activity_note.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/activity_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/custom_dialog_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/daftar_todo.xml" value="0.22" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/layout_add_url.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/layout_color.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/layout_delete_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Desktop/StudyApp-master/app/src/main/res/layout/todo_item.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/drawable/bg_color.xml" value="0.134" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_add_todo.xml" value="0.22" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_coutdowntimer.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_detail_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_note.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/activity_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/custom_dialog_todo.xml" value="0.25" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/daftar_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/layout_add_url.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/layout_color.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/layout_delete_todo.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/layout/todo_item.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/_Nggasol_/Downloads/StudyApp-master/app/src/main/res/menu/menu.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
