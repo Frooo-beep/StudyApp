@@ -5,8 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F3F3F3"
-    tools:context=".catatan.activities.AddTodo">
+    android:background="@color/note3"
+    tools:context=".note.activities.AddTodo">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -97,7 +97,6 @@
                 android:inputType="textMultiLine"
                 android:paddingTop="8dp"
                 android:paddingBottom="8dp"
-                android:textColorHint="@color/black"
                 android:textSize="13sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="@id/descTodoColor"

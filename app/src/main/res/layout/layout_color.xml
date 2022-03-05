@@ -18,7 +18,7 @@
         android:gravity="center"
         android:includeFontPadding="false"
         android:text="@string/setup"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="13sp"/>
 
     <LinearLayout
@@ -129,7 +129,7 @@
             android:layout_width="wrap_content"
             android:layout_height="30dp"
             android:text="@string/pick_your_color"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:gravity="center"
             android:fontFamily="@font/ubuntu_bold"/>
 
@@ -149,7 +149,7 @@
             android:layout_height="22dp"
             android:contentDescription="@string/app_name"
             android:src="@drawable/ic_image"
-            app:tint="@color/white" />
+            app:tint="@color/black" />
 
         <TextView
             android:layout_width="match_parent"
@@ -159,7 +159,7 @@
             android:includeFontPadding="false"
             android:text="@string/add_image"
             android:textSize="12sp"
-            android:textColor="@color/white"/>
+            android:textColor="@color/black"/>
     </LinearLayout>
 
     <LinearLayout
@@ -178,7 +178,7 @@
             android:layout_height="22dp"
             android:contentDescription="@string/app_name"
             android:src="@drawable/ic_web"
-            app:tint="@color/white" />
+            app:tint="@color/black" />
 
         <TextView
             android:layout_width="match_parent"
@@ -188,7 +188,7 @@
             android:includeFontPadding="false"
             android:text="@string/add_url"
             android:textSize="12sp"
-            android:textColor="@color/white"/>
+            android:textColor="@color/black"/>
     </LinearLayout>
 
     <LinearLayout

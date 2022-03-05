@@ -16,7 +16,7 @@
     <color name="colNote2">#FDBE3B</color>
     <color name="colNote3">#FF4842</color>
     <color name="colNote4">#3592C4</color>
-    <color name="colNote5">#000000</color>
+    <color name="colNote5">#93faa5</color>
 
     <color name="col_src_bg">#4E5051</color>
     <color name="col_icon">#A4A4A4</color>
@@ -27,9 +27,10 @@
     <color name="cal_bg">#93faa5</color>
     <color name="item_desc">#EAEAEA</color>
     <color name="biru">#D3191D95</color>
+    <color name="birunote">#2D33E1</color>
     <color name="abu">#BABABA</color>
 
-    <color name="note1">#FF9700</color>
+    <color name="note1">#FFD79E</color>
     <color name="note2">#FC9107</color>
-    <color name="note3">#DD7D00</color>
+    <color name="note3">#48FFBD68</color>
 </resources>

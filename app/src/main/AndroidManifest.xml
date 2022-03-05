@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.andre_gt.project.studyapp">
+    package="com.coolcode.project.studyapp">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.VIBRATE" />
@@ -14,22 +14,18 @@
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.READ_SMS" />
 
-    <queries>
-        <package android:name="com.andregt.g3project" />
-    </queries>
-
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logo"
+        android:icon="@drawable/app_logo"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo"
+        android:roundIcon="@drawable/app_logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyApp">
         <activity
-            android:name=".translate.TranslateAcitivity"
+            android:name="com.coolcode.project.studyapp.translate.TranslateAcitivity"
             android:exported="false" />
         <activity
-            android:name=".SplashScreen"
+            android:name="com.coolcode.project.studyapp.SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,23 +34,23 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".todolistapplication.ActivityDetailTodo"
+            android:name="com.coolcode.project.studyapp.todo.ActivityDetailTodo"
             android:exported="false" />
         <activity
-            android:name=".timer.CoutdowntimerActivity"
-            android:parentActivityName=".MainActivity" />
+            android:name="com.coolcode.project.studyapp.timer.CoutdowntimerActivity"
+            android:parentActivityName="com.coolcode.project.studyapp.MainActivity" />
         <activity
-            android:name=".catatan.activities.NoteActivity"
-            android:parentActivityName=".MainActivity" />
+            android:name="com.coolcode.project.studyapp.note.activities.NoteActivity"
+            android:parentActivityName="com.coolcode.project.studyapp.MainActivity" />
         <activity
-            android:name=".catatan.activities.AddTodo"
-            android:parentActivityName=".todolistapplication.TodoActivity" />
+            android:name="com.coolcode.project.studyapp.note.activities.AddTodo"
+            android:parentActivityName="com.coolcode.project.studyapp.todo.TodoActivity" />
         <activity
-            android:name=".todolistapplication.TodoActivity"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".MainActivity"></activity>
+            android:name="com.coolcode.project.studyapp.todo.TodoActivity"
+            android:parentActivityName="com.coolcode.project.studyapp.MainActivity" />
+        <activity android:name="com.coolcode.project.studyapp.MainActivity"></activity>
 
-        <receiver android:name=".todolistapplication.Notifikasi" />
+        <receiver android:name="com.coolcode.project.studyapp.todo.Notifikasi" />
     </application>
 
 </manifest>
